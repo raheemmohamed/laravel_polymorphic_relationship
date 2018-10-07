@@ -1,0 +1,1 @@
+laravel_polymorphic_one_relationship
